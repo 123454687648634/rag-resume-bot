@@ -50,5 +50,5 @@
 
 \## 在线演示
 
-\[在这里粘贴你的 Streamlit Cloud 链接]
+https://rag-resume-bot-nuebufox6mssgqzykj95bz.streamlit.app/
 
