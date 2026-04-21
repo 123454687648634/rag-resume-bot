@@ -11,3 +11,4 @@ pypdf
 rank_bm25
 sentence-transformers
 openai
+protobuf==3.20.3
